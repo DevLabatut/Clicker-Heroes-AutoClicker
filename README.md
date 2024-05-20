@@ -6,7 +6,7 @@ Se você joga Clicker Heroes na Steam e fica cansado de clicar o tempo todo, est
 
 1. Certifique-se de ter o PyAutoGUI e o keyboard instalados no Python. Caso não tenha, você pode instalá-los usando os seguintes comandos:
     ```bash
-    pip install pyautogui
+    pip install pyautogui keyboard
     ```
     
 2. Execute o script antes de começar o Clicker Heroes.
